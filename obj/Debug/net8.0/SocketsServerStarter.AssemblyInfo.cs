@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocketsServerStarter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5c3f84f3f120408c21572feb11fdeda16405a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocketsServerStarter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocketsServerStarter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
